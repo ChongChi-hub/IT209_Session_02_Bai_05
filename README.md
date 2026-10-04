@@ -21,8 +21,7 @@ sudo chmod -R 755 /var/www/ptit-web
 ls -la /var/www/ptit-web/
 ```
 
-**Đầu ra lệnh `ls -la` (Vui lòng chạy lệnh và dán text output thật vào đây):**
-[ImgEx]
+*Lưu ý: Vì thẻ visa của em bị khoá nên không thể tạo droplet để kiểm tra kết quả.*
 
 ### 3. Kiểm tra ghi file bằng user `devops`
 Đăng nhập với user `devops` (không sử dụng lệnh sudo), chạy:
